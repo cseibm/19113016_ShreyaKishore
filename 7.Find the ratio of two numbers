@@ -1,0 +1,5 @@
+print("enter two nos")
+a= input()
+b= input()
+ratio = int(a)/int(b)
+print ('the ratio of',a,'and',b,'is:',ratio)
