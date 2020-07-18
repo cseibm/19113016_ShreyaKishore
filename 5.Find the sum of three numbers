@@ -1,0 +1,6 @@
+print("enter three nos")
+a= input()
+b= input()
+c= input()
+sum = int(a)+int(b)+int(c)
+print (sum)
