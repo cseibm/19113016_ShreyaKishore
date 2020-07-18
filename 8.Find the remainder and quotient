@@ -1,0 +1,6 @@
+print("enter two numbers")
+a= input()
+b= input()
+r= float(a)%float(b)
+q= float(a)/float(b)
+print (r,q)
