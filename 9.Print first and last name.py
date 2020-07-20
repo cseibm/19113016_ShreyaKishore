@@ -1,4 +1,3 @@
-print("enter your name")
-fname= input()
-lname= input()
-print (str(fname), str(lname))
+fname= input("enter your first name: ")
+lname= input("enter your last name: ")
+print(fname,lname)
