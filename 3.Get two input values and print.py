@@ -1,4 +1,3 @@
-print("enter two values")
-  a= input()
-  b= input()
-  print(a,b)
+a= input("enter first values: ")
+b= input("enter second value: ")
+print(a,b)
