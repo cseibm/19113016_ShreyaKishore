@@ -6,7 +6,7 @@ x=int(input("enter the step up number:"))
 for i in range(a,n):
     a=a+x
     a=a+1
-    print (a+1, end = "  ")
+    print (a, end = "  ")
 
 b)
 # multiples of numbers
